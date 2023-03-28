@@ -6,8 +6,8 @@ import java.text.DecimalFormat;
 public class P_Ciudades {
 
 	// variables que guardan archivos
-	String GuardarCiudades = "src/ciudadesRedactadas.txt";
-	String ciudades = "src/ciutats.txt";
+	String GuardarCiudades = "C:/Users/oriol/Documents/GitHub/pruebas_pandemic/src/ciudadesRedactadas.txt";
+	String ciudades = "C:/Users/oriol/Documents/GitHub/pruebas_pandemic/src/ciutats.txt";
 
 	// variables de importación
 	DecimalFormat df = new DecimalFormat("#.00");

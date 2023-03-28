@@ -8,8 +8,8 @@ public class P_Virus {
 	int CodigoEnfermedad = 0;
 	String NombreEnfermedad = null;
 	String ColorEnfermedad = null;
-	static String Info = "src/ciutats.txt";
-	static String InfoVirus = "src/ciudades-enefermedad.bin";
+	static String Info = "C:/Users/oriol/Documents/GitHub/pruebas_pandemic/src/ciutats.txt";
+	static String InfoVirus = "C:/Users/oriol/Documents/GitHub/pruebas_pandemic/src/ciudades-enefermedad.bin";
 	String green = "\033[32m", red = "\033[31m", blue = "\033[34m", yellow = "\033[37m";
 	int x = 0, y = 0;
 
